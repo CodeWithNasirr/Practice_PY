@@ -2,7 +2,7 @@ import threading
 import requests
 import time
 import uuid
-
+import django
 
 
 def downloader(url, name):
